@@ -45,3 +45,23 @@ tr:nth-child(odd){
 .BAUER:hover{
     text-shadow: 5px 5px 2px darkgreen;
 }
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: aquamarine;
+}
+
+.link{
+    background-color: burlywood;
+    display: inline;
+    float: left;
+}
