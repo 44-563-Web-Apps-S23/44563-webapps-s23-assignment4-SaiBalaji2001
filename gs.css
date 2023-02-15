@@ -39,3 +39,9 @@ tr:nth-child(even){
 tr:nth-child(odd){
     background-color: blanchedalmond;
 }
+.LANE:hover{
+    text-shadow: 5px 5px 2px orangered;
+}
+.BAUER:hover{
+    text-shadow: 5px 5px 2px darkgreen;
+}
