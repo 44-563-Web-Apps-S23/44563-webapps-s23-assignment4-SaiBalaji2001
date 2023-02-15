@@ -58,10 +58,25 @@ ul{
     padding: 0;
     overflow: hidden;
     background-color: aquamarine;
+    display: flex;
 }
 
 .link{
     background-color: burlywood;
+}
+li{
     display: inline;
-    float: left;
+    float:left;
+}
+li a{
+    display: inline-block;
+    color: darkblue;
+    text-align: center;
+    padding: 15px, 20px;
+    text-decoration: darkblue;
+    justify-content: center;
+}
+a{
+    display: block;
+    padding: 5px;
 }
