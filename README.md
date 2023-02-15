@@ -1,4 +1,4 @@
 # WebApps-S23-Assignment-4
 A practice assignment for HTML with CSS
 
-Hosted at <a href="https://44-563-web-apps-s23.github.io/44563-webapps-s23-assignment4-SaiBalaji2001/"> Click Here to open Play.html file </a>
+Hosted at <a href="https://44-563-web-apps-s23.github.io/44563-webapps-s23-assignment4-SaiBalaji2001/play.html"> Click Here to open Play.html file </a>
